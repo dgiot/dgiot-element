@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.16.2](https://github.com/femessage/element/compare/v2.16.1...v2.16.2) (2020-06-08)
+
+
+### Bug Fixes
+
+* 处理ts声明报错 ([#63](https://github.com/femessage/element/issues/63)) ([9146442](https://github.com/femessage/element/commit/9146442))
+
 ### [2.16.1](https://github.com/femessage/element/compare/v2.16.0...v2.16.1) (2020-06-01)
 
 
