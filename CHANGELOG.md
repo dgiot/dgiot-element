@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.17.0](https://github.com/femessage/element/compare/v2.16.2...v2.17.0) (2020-08-10)
+
+
+### Bug Fixes
+
+* **design:** 修改外链组件地址 ([#64](https://github.com/femessage/element/issues/64)) ([2c6b4b9](https://github.com/femessage/element/commit/2c6b4b9))
+* switch-enhance font-size ([#51](https://github.com/femessage/element/issues/51)) ([e8f4124](https://github.com/femessage/element/commit/e8f4124))
+* **edit-table:** oldValue 更新问题 ([#62](https://github.com/femessage/element/issues/62)) ([af8b9aa](https://github.com/femessage/element/commit/af8b9aa)), closes [#61](https://github.com/femessage/element/issues/61)
+
+
+### Features
+
+* message-box support appendTarget ([#65](https://github.com/femessage/element/issues/65)) ([9cdf297](https://github.com/femessage/element/commit/9cdf297))
+* 为 el-select 添加 extra 插槽 ([#66](https://github.com/femessage/element/issues/66)) ([d6c99ae](https://github.com/femessage/element/commit/d6c99ae))
+
 ### [2.16.2](https://github.com/femessage/element/compare/v2.16.1...v2.16.2) (2020-06-08)
 
 
