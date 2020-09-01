@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.18.0](https://github.com/femessage/element/compare/v2.17.0...v2.18.0) (2020-09-01)
+
+
+### Features
+
+* timeline组件增加横版模式及时间戳插槽 ([#69](https://github.com/femessage/element/issues/69)) ([7794b44](https://github.com/femessage/element/commit/7794b44))
+* 提升 date-picker 选择日期用户体验 ([#71](https://github.com/femessage/element/issues/71)) ([19a59db](https://github.com/femessage/element/commit/19a59db))
+
 ## [2.17.0](https://github.com/femessage/element/compare/v2.16.2...v2.17.0) (2020-08-10)
 
 
