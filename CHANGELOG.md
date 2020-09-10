@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.19.0](https://github.com/femessage/element/compare/v2.18.0...v2.19.0) (2020-09-10)
+
+
+### Features
+
+* 树形数据的联动选择 ([#75](https://github.com/femessage/element/issues/75)) ([9735eff](https://github.com/femessage/element/commit/9735eff))
+
 ## [2.18.0](https://github.com/femessage/element/compare/v2.17.0...v2.18.0) (2020-09-01)
 
 
