@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.19.1](https://github.com/femessage/element/compare/v2.19.0...v2.19.1) (2020-09-18)
+
 ## [2.19.0](https://github.com/femessage/element/compare/v2.18.0...v2.19.0) (2020-09-10)
 
 
