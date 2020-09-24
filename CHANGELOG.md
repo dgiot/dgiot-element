@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.20.0](https://github.com/femessage/element/compare/v2.19.1...v2.20.0) (2020-09-24)
+
+
+### Features
+
+* el-tree 支持虚拟滚动，提高性能 ([#78](https://github.com/femessage/element/issues/78)) ([2071324](https://github.com/femessage/element/commit/2071324))
+* 增强 avatar ([#76](https://github.com/femessage/element/issues/76)) ([31b9b5e](https://github.com/femessage/element/commit/31b9b5e))
+
 ### [2.19.1](https://github.com/femessage/element/compare/v2.19.0...v2.19.1) (2020-09-18)
 
 ## [2.19.0](https://github.com/femessage/element/compare/v2.18.0...v2.19.0) (2020-09-10)
