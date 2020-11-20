@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.20.3](https://github.com/femessage/element/compare/v2.20.2...v2.20.3) (2020-11-20)
+
+
+### Bug Fixes
+
+* 最小行允许0 ([dbbcf50](https://github.com/femessage/element/commit/dbbcf50))
+
 ### [2.20.2](https://github.com/femessage/element/compare/v2.20.1...v2.20.2) (2020-11-05)
 
 ### [2.20.1](https://github.com/femessage/element/compare/v2.20.0...v2.20.1) (2020-10-19)
