@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.21.0](https://github.com/femessage/element/compare/v2.20.3...v2.21.0) (2020-12-24)
+
+
+### Features
+
+* tab-bar can compute tab-item's margin ([#84](https://github.com/femessage/element/issues/84)) ([72333a4](https://github.com/femessage/element/commit/72333a4))
+
 ### [2.20.3](https://github.com/femessage/element/compare/v2.20.2...v2.20.3) (2020-11-20)
 
 
