@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.22.0](https://github.com/femessage/element/compare/v2.21.0...v2.22.0) (2021-05-12)
+
+
+### Features
+
+* **el-card:** 支持事件监听 ([e8e1762](https://github.com/femessage/element/commit/e8e1762))
+* **el-card:** 支持事件监听 ([#87](https://github.com/femessage/element/issues/87)) ([ae3388e](https://github.com/femessage/element/commit/ae3388e))
+
 ## [2.21.0](https://github.com/femessage/element/compare/v2.20.3...v2.21.0) (2020-12-24)
 
 
